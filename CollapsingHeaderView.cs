@@ -5,7 +5,7 @@ using UIKit;
 using System.Collections.Generic;
 using CoreGraphics;
 
-namespace Moonraker.iOS
+namespace Project.iOS
 {
 	public enum MGTransformCurve
 	{
